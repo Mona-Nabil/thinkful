@@ -1,0 +1,93 @@
+body {
+  background-color: black;
+  color: #f9d7ec;
+  margin: 0px;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 10px;
+  font-size: 32px;
+}
+
+h3 {
+  font-family: fantasy;
+  font-size: 18px;
+  text-align: center;
+}
+
+#header-container {
+  background-color: #854d3f;
+
+  padding: 20px 0;
+}
+
+#image-content {
+  /* text-align: center; */
+  margin-top: 2%;
+}
+
+#image-content img {
+  display: block;
+  margin: 0 auto;
+}
+
+#my-list {
+  list-style: none;
+  /* text-align: center; */
+}
+hr {
+  width: 420px;
+  border: 2px solid whitesmoke;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.title-style {
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+.about-me {
+    text-align: center;
+    font-size: 16px;
+    padding: 1%;
+    height: 20%;
+}
+
+/* li {
+    text-align: justify;
+    list-style-type: none;
+    padding-left: 30%;
+} */
+
+article {
+    text-align: center;
+    list-style-type: none;
+    /* padding-left: 20%; */
+    /* padding: none; */
+}
+
+
+h1 h3 #my-list #image-container {
+    text-align: center;
+    height: 20%;
+}
+ h2 {
+    text-align: center;
+    font-family: fantasy;
+ }
+
+ #contact-me {
+    text-align: center;
+    
+ }
+
+ footer {
+    text-align: center;
+    margin: 10px;
+    background-color: #854d3f;
+    margin: 0px;
+    padding: 0%;
+ }
